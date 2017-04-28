@@ -111,16 +111,25 @@ function run() {
 ## S.O.L.I.D STANDS FOR:
 
 S – Single-responsiblity principle
+
 O – Open-closed principle
+
 L – Liskov substitution principle
+
 I – Interface segregation principle
+
 D – Dependency Inversion Principle
 
 S - A class should have one and only one reason to change, meaning that a class should have only one job.
+
 O - Objects or entities should be open for extension, but closed for modification.
+
 L - All this is stating is that every subclass/derived class should be substitutable for their base/parent class.
+
 I - ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them.
+
 D -  High-level modules independent of the low-level module implementation details.
+
 
 # Tasks
 ## 1. 
