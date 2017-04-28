@@ -120,6 +120,11 @@ I – Interface segregation principle
 
 D – Dependency Inversion Principle
 
+
+
+
+
+
 S - A class should have one and only one reason to change, meaning that a class should have only one job.
 
 O - Objects or entities should be open for extension, but closed for modification.
