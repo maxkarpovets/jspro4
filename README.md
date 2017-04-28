@@ -142,3 +142,5 @@ D -  High-level modules independent of the low-level module implementation detai
 ## 4.
 Написати калькулятор на додавання, віднімання, ділення, множення. Написати тести на кожну функцію
 ( expect(calculator.add(2,3)).toEqual(5); )
+
+https://jasmine.github.io/2.0/introduction.html
